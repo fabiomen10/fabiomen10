@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fábio Mendes</h1>
-<h3 align="center">A cybersecurity student from Brazil, passionate about learning and protecting digital systems. <br>
+<h3 align="center">A cybersecurity student from Brazil, who is passionate about learning and protecting digital systems. <br>
   I'm currently completing a degree in Security Management and Cyber Defense at UNINTER. <br>
   <h3 align="left">My areas of interest include: <br>
   - **Vulnerability Analysis**: I love examining systems for flaws and understanding how attackers might exploit them. <br>
   - **Networking and Security**: I'm learning about firewalls, VPNs, IDS/IPS, and others security network technologies. <br>
-  - **Secure Programming**: I've obtaining knowledge in C, GO, Python and am diving deeper into secure coding practices. <br>
+  - **Secure Programming**: I'm acquiring practical knowledge in C, GO and Python, while keeping coding safe. <br>
   - **Ethical Hacking**: I believe in understanding the techniques ethical hackers used to defend systems. </h3>  
   <h3 align="left"> I'm always seeking new challenges and opportunities to apply my knowledge. Let's strengthen digital security together! 🛡️🔒</h3>
 
